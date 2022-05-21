@@ -2,7 +2,6 @@
 
 <b>✍️ Пишу что-то на питончике, люблю мороженое</b>
 
-### Немножко статистики
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagM1go&show_icons=true&count_private=true&hide_border=true&theme=outrun&icon_color=fff&layout=compact&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Проекты:
