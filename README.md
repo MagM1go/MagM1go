@@ -10,4 +10,4 @@
 ### Проекты:
 * [Лейла](https://discord.com/api/oauth2/authorize?client_id=828934385112711188&permissions=8&scope=bot%20applications.commands) - многофункциональный дискорд бот.
 * [Quant](https://github.com/magm1go/quant) - Фреймворк под Discord API для создания ботов и прочего взаимодействия с, соответственно, API.
-* [BotiKotlin](https://github.com/MagM1go?tab=repositories) - Простая библиотека, написанная на языке программирования Kotlin для взаимодействия с BotiCord API. 
+* [BotiKotlin](https://github.com/boticord/botikotlin) - Простая библиотека, написанная на языке программирования Kotlin для взаимодействия с BotiCord API. 
