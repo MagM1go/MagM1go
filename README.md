@@ -7,6 +7,6 @@
 ### Проекты:
 * [Frozen] [Quant](https://github.com/magm1go/quant) - обёртка над Discord API, написанная с нуля (не мейнтейнится. Смотреть, не трогать)
 * [In-Dev] Leyla - много-... много-много чего умеющее нечто на Kotlin + Spring Boot.
-* [In-Dev] HIKARI // [Marionette](https://github.com/MagM1go/marionette-skeleton/tree/main) - ролевая платформа по мотивам японского шоу-бизнеса, вдохновлённая мангой и аниме "Oshi No Ko".
+* [In-Dev] HIKARI // [Marionette](https://github.com/MagM1go/marionette) - ролевая платформа по мотивам японского шоу-бизнеса, вдохновлённая мангой и аниме "Oshi No Ko".
 
 https://magmigo.ru - почти визитка
